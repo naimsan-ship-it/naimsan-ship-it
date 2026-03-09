@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Naim 👋
 
-<!--
-**naimsan-ship-it/naimsan-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack & AI Engineer
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Node.js | React | Django | FastAPI | AWS | Docker | Kubernetes | PostgreSQL | MongoDB
+
+## About Me
+
+I build scalable backend systems, AI-powered applications, and full-stack SaaS platforms.
+
+My work focuses on:
+
+• AI & LLM Systems  
+• Microservices Architecture  
+• High Performance APIs  
+• Cloud Infrastructure  
+
+## Featured Projects
+
+🚀 AI RAG Support Assistant (coming soon)  
+🚀 Microservices E-commerce Platform  
+🚀 Real-Time Collaboration Platform  
+🚀 LLM Fine-Tuning Framework  
+🚀 AI SaaS Dashboard  
+
+## Currently Building
+
+A portfolio of production-grade systems to demonstrate architecture, scalability, and AI engineering skills.
