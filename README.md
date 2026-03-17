@@ -39,51 +39,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-san/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naimsan.developer@gmail.com)
-```
 
----
-
-### Step 1.5 — Save Karo
-
-Neeche **"Commit changes"** pe click karo → phir **"Commit changes"** wala green button
-
----
-
-## 🟡 STEP 2 — Teeno Repos Fork Karo
-
-Yeh links kholo aur **"Fork"** button dabao (top right mein hota hai):
-
-1. **`github.com/ashishpatel26/LLM-Finetuning`** → Fork karo → naam rakho `llm-finetuning-framework`
-2. **`github.com/NirDiamant/RAG_Techniques`** → Fork karo → naam rakho `ai-saas-platform`
-3. **`github.com/patchy631/ai-engineering-hub`** → Fork karo → naam rakho `ml-signal-pipeline`
-
----
-
-## 🟠 STEP 3 — Repos Pin Karo Profile Pe
-
-1. Apni profile pe jao (`github.com/naimsan-ship-it`)
-2. **"Customize your pins"** pe click karo
-3. Teeno naye repos check karo
-4. Save karo
-
----
-
-## 🔵 STEP 4 — Har Forked Repo ka README Update Karo
-
-Har repo mein jakar README.md edit karo aur **pehli 3 lines** yeh likhو:
-```
-> ⭐ Extended and maintained by Naim San
-> Production-grade implementation with custom modifications for real-world deployment.
-```
-
-Aur apna resume wala description add karo.
-
----
-
-## ✅ Final Result
-
-Jab yeh sab ho jaye, aapki profile dikhegi:
-```
 👤 naimsan-ship-it
 📝 Senior AI/ML Engineer | Deep Learning | RAG | Signal Intelligence
 
